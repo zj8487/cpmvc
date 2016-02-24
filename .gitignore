@@ -1,0 +1,8 @@
+
+.project
+*/node-log.log
+!.gitignore
+*.swp
+*.sublime-project
+*.sublime-workspace
+/node_modules/

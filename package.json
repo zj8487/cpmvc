@@ -1,0 +1,34 @@
+{
+  "name": "cpmvc",
+  "version": "1.0.0",
+  "description": "PureMVC for comonjs",
+  "author": "zj8487 <zj8487@gmail.com>",
+  "homepage": "https://github.com/zj8487/cpmvc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zj8487/cpmvc.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {},
+  "keywords": [
+    "puremvc",
+    "multicore"
+  ],
+  "devDependencies": {},
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "bugs": {
+    "url": "https://github.com/zj8487/cpmvc/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
