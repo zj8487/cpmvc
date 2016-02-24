@@ -1,0 +1,2 @@
+# cpmvc
+PureMVC for comonjs
